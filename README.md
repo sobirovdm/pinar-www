@@ -1,3 +1,3 @@
 # pinar-www
 
-Click [here](sdm-pinar-www.netlify.app) to see
+Click [here](https://sdm-pinar-www.netlify.app) to see
